@@ -1,0 +1,96 @@
+.twt{
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+    padding: 12px 12px;
+    width: 450px;
+    border-radius: 6px;
+    margin-bottom: 40px;
+}
+
+.dp{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 100px;
+    vertical-align: middle;
+}
+
+.tweet{
+    font-size: 16px;
+    border: none;
+    width: 300px;
+    vertical-align: middle;
+}
+
+.Tweet{
+    background-color: rgb(86, 186, 248);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 30px;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+.fb{
+    width: 150px;
+    box-shadow: 0 0 6px rgba(0,0,0,0.3);
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.dp2{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    vertical-align: middle;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.dp3{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    vertical-align: middle;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.dp4{
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    vertical-align: middle;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.name{
+    margin-top: 6px;
+    margin-left: 8px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.frnds{
+    margin-top: 0px;
+    font-size: 15px;
+    margin-left: 8px;
+    color: rgb(133, 126, 126);
+    margin-bottom: 6px;
+}
+
+.AF{
+    margin-left: 8px;
+    margin-bottom: 8px;
+    background-color: rgb(35, 131, 240);
+    color: white;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    cursor: pointer;
+    box-shadow: 5px 5px 6px rgba(0, 0, 0, 0.3);
+}
